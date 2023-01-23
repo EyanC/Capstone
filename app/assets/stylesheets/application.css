@@ -8,7 +8,16 @@
     font-weight: bold;
     font-size: 20px;
 }
-
+/* .userTitle {
+    margin-left: 20%;
+} */
+#users {
+    text-decoration: none;
+}
+.stuser {
+    text-decoration: none;
+    t
+}
 /* .aboutus {
     justify-content: center;
 } */
